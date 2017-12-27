@@ -1,0 +1,20 @@
+
+
+.left {
+  border-bottom: 0px solid black;
+  margin: auto;
+  margin-top: 20px;
+  width: 100%;
+  float: left;
+}
+.tables {
+  border: 50px solid white;
+  margin: auto;
+  background-color: white;
+}
+p {
+  text-align:center;
+  color: #868e96;
+  font-size: 1.25rem;
+  font-weight: 300;
+}
